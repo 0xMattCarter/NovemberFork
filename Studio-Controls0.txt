@@ -1,0 +1,11 @@
+W, A, S, & D:       Change direction and speed,
+0:                  Make all particles still,
+X:                  Wipe all particles from canvas and toggle all other controls off,
+Z:                  Spawn original amount of particles,
+1, 2, 3:            Spawn smaller quantities of particles,
+C:                  Toggle Connecting mode,
+E:                  Toggle Etheracting mode
+T:                  Toggle Trail mode,
+R:                  Toggle Recording mode,
+
+more coming soon...
