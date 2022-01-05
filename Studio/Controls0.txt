@@ -18,10 +18,10 @@ J:                  Make point spawn further (if point spawn is set to 0, it wil
 Modes
 
 C:                  Toggle Connecting mode,
-E:                  Toggle Etheracting mode
+E:                  Toggle Etheracting mode (only works with < 100 particles on the canvas), 
 T:                  Toggle Trail mode,
 
 
 Coming Soon
 R:                  Start/Stop Recording mode,
-...:                A ton more
+...                 wind maps, color options, orbital mechanics and much, much more coming soon.
