@@ -1,4 +1,4 @@
-In the future, different keys will be able to unlock additional controls within the studio,
-Each collection in Season One will come with exclusive controls,
-There will also be ways to unlock additional controls without minting tokens from NovemberFork,
-More on this later.
+Once open, users will be able to unlock additional controls within the studio,
+Some of these include: owning specific tokens, completing hidden challenges, or trading us some of our ERC20 tokens.
+
+Yes, that's right, we are also working on an ERC20 token to provide utility and purchasing power all across NovemberFork.
