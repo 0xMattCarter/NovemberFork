@@ -1,0 +1,4 @@
+In the future, different keys will be able to unlock additional controls within the studio,
+Each collection in Season One will come with exclusive controls,
+There will also be ways to unlock additional controls without minting tokens from NovemberFork,
+More on this later.
