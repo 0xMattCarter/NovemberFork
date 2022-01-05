@@ -1,4 +1,5 @@
-Once open, users will be able to unlock additional controls within the studio,
-Some of these include: owning specific tokens, completing hidden challenges, or trading us some of our ERC20 tokens.
+Users will be able to unlock additional controls within the studio by meeting certain criteria,
+Some of these include: holding specific tokens, completing hidden challenges, trading us some of our own ERC20 tokens, and more, 
 
-Yes, that's right, we are also working on an ERC20 token to provide utility and purchasing power all across NovemberFork.
+Yes, that's right, we are also working on an ERC20 token to provide utility and purchasing power all across NovemberFork,
+We can't say much about it now but expect to be able to spend them on the site in various ways.
