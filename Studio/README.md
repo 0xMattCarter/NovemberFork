@@ -5,4 +5,4 @@
 - Winning pieces will be made into ERC721 tokens by us and airdropped to their creators, 
 - It will be up to these winners to decide if they want to keep their trophies or sell them on the market.
 
-- See the ControlsX.txt files to learn the studio commands
+- See the ControlsX.txt files to learn the studio's commands
