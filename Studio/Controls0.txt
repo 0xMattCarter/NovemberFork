@@ -5,15 +5,15 @@ W, A, S, & D:       Change direction and speed,
 0:                  Make all particles still,
 X:                  Wipe all particles from canvas and toggle all modes off,
 
-M:                  Spawn single particle at curser (clicking does this as well),
+M:                  Spawn single particle at curser (clicking does this as well at random z-indexes),
 N:                  Remove most recently spawned particle,
 Z:                  Spawn original number of particles,
 1, 2, 3:            Spawn smaller quantities of particles,
 
-Commands
+Commands (you should hit X to reset the canvas)
 
-U:                  Make point spawn closer 
-J:                  Make point spawn further (if point spawn is set to 0, it will set the z-index to random)
+U:                  Make point spawn closer for M
+J:                  Make point spawn further for M(if point spawn is set to 0, it will set the z-index to random)
 
 Modes
 
