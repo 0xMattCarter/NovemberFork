@@ -1,1 +1,1 @@
-Feel free to read, test, or inheirit our contracts
+Feel free to read, test, or inherit our contracts
