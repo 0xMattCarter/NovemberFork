@@ -1,8 +1,10 @@
 - The Studio is still in development and will be opening soon,
-- Anyone who goes to NovemberFork.io with keys will be able to enter it,
+- Anyone who visits NovemberFork.io will be able to enter it,
 - The final version of the studio will allow users to record videos and/or capture images of their creations,
 - Using the blockchain and a decentralized voting protocol, these submitted images/videos will be voted on by the community,
-- Winning pieces will be made into ERC721 tokens by us and airdropped to their creators, 
-- It will be up to these winners to decide if they want to keep their trophies or sell them on the market.
+- Winning pieces will be made into ERC-721 tokens by us and airdropped to their creators, 
+- It will be up to these winners to decide if they want to keep their trophies or sell them on the market,
+
+- In the future we will release an ERC-20 token to reward winners even more,
 
 - See the ControlsX.txt files to learn the studio's commands
