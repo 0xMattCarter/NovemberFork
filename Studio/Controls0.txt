@@ -1,4 +1,4 @@
-Intro Commands (we recommend following along)
+Intro Commands (we recommend a top to bottom approach)
 
 K:                  Toggle Instructions,
 W, A, S, & D:       Change direction and speed,
