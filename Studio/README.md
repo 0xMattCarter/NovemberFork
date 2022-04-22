@@ -4,6 +4,6 @@
 - Winning pieces will be made into ERC-721 tokens and airdropped to their creators, 
 - It will be up to these winners to decide if they want to keep their trophies or sell them to the market,
 
-- Further into the future we will release ERC-20 tokens for season winners to sell or exchange across the site.
+- Further into the future season winners will receive ERC-20 tokens exchange for more features across the site.
 
 - See the ControlsX.txt files to get started.
