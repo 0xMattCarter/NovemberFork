@@ -6,4 +6,4 @@
 
 - Further into the future season winners will receive ERC-20 tokens exchange for more features across the site.
 
-- See the Controls0.txt files to get started.
+- See Controls0.txt to get started.
