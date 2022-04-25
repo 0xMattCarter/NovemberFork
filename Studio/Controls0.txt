@@ -1,6 +1,7 @@
 Intro Commands (we recommend a top to bottom approach)
 
-K:                  Toggle Instructions,
+K:                  Toggle instructions,
+F:                  Toggle full screen,
 (space):            Cycle through color options,
 L:                  Toggle light/dark mode,
 W, A, S, & D:       Change direction and speed,
