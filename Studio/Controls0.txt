@@ -1,12 +1,13 @@
-Intro Commands (we recommend a top to bottom approach)
+# Intro Commands
+(we recommend a top to bottom approach)
 
-K:                  Toggle instructions,
-F:                  Toggle full screen,
-(space):            Cycle through color options,
-L:                  Toggle light/dark mode,
-W, A, S, & D:       Change direction and speed,
-0:                  Make all particles still,
-X:                  Wipe all particles from canvas and toggle all modes off,
+-K:                  Toggle instructions,
+-F:                  Toggle full screen,
+-(space):            Cycle through color options,
+-L:                  Toggle light/dark mode,
+-W, A, S, & D:       Change direction and speed,
+-0:                  Make all particles still,
+-X:                  Wipe all particles from canvas and toggle all modes off,
 
 M:                  Spawn single particle at curser (clicking does this as well at random z-indexes),
 N:                  Remove most recently spawned particle,
