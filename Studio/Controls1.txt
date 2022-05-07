@@ -1,4 +1,11 @@
-Users will be able to unlock additional controls within the studio by meeting certain criteria,
-Some of these include: holding specific tokens, completing hidden challenges, trading us some of our own ERC-20 tokens, and more, 
+# Unlocking additional controls
 
+There will be many ways to unlock additional controls within the studio
 
+Check back in this repo to not miss out
+
+To unlock the first additional control, set a mask
+  - To do this, click the block stats next time they cycle through
+  - Setting a mask lets us know what to call you
+  - It also allows you to save your creations
+  - To save your creation hold shift and press the S key
