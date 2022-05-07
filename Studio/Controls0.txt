@@ -10,8 +10,8 @@ X:                  Wipe all particles from canvas and toggle all modes off,
 
 M:                  Spawn single particle at curser (clicking does this as well at random z-indexes),
 N:                  Remove most recently spawned particle,
-Z:                  Spawn original number of particles,
-1, 2, 3:            Spawn smaller quantities of particles,
+Z:                  Spawn 111 particles,
+1, 2, 3, ... 9:     Spawn smaller quantities of particles,
 
 Commands (you should hit X to reset the canvas)
 
@@ -21,10 +21,13 @@ J:                  Make point spawn further for M(if point spawn is set to 0, i
 Modes
 
 C:                  Toggle Connecting mode,
-E:                  Toggle Etheracting mode (only works with < 100 particles on the canvas), 
+E:                  Toggle Etheracting mode (only works with <= 111 particles on the canvas), 
 T:                  Toggle Trail mode,
 
+Extra
+
+shift + S:           Save the canvas to your machine
 
 Coming Soon
-R:                  Start/Stop Recording mode,
-...                 wind maps, color options, orbital mechanics and much, much more coming soon.
+
+...                 artifact loading, wind maps, orbital mechanics and much, much more coming soon.
