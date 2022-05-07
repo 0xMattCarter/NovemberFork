@@ -1,5 +1,6 @@
 # Intro Commands
 (we recommend a top to bottom approach)
+(also, caps lock will not work with these commands)
 
 K:                  Toggle instructions,
 F:                  Toggle full screen,
