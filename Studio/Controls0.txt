@@ -14,21 +14,22 @@ N:                  Remove most recently spawned particle,
 Z:                  Spawn 111 particles,
 1, 2, 3, ... 9:     Spawn smaller quantities of particles,
 
-Commands (you should hit X to reset the canvas)
+# Commands 
+(you should hit X to reset the canvas)
 
 U:                  Make point spawn closer for M
 J:                  Make point spawn further for M(if point spawn is set to 0, it will set the z-index to random)
 
-Modes
+# Modes
 
 C:                  Toggle Connecting mode,
 E:                  Toggle Etheracting mode (only works with <= 111 particles on the canvas), 
 T:                  Toggle Trail mode,
 
-Extra
+# Extra
 
 shift + S:           Save the canvas to your machine
 
 Coming Soon
 
-...                 artifact loading, wind maps, orbital mechanics and much, much more coming soon.
+...                 artifact importing, wind maps, orbital mechanics and much, much more coming soon.
