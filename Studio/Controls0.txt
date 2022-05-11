@@ -7,6 +7,7 @@ F:                  Toggle full screen,
 (space):            Cycle through color options,
 L:                  Toggle light/dark mode,
 W, A, S, & D:       Change direction and speed,
+R:                  Randomize the direction and speed,
 0:                  Make all particles still,
 X:                  Wipe all particles from canvas and toggle all modes off,
 
